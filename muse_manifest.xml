@@ -1,0 +1,253 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.vvv.com" resolutions="1x" timestamp="1701261857282">
+  <folder name="css">
+    <file name="site_global.css" crc="3812371636"/>
+    <file name="master_a-gabarit.css" crc="491758354" ref="conatctez-nous:a-propos-de-masec:index:service-de-securité"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="3824530138" ref="conatctez-nous:a-propos-de-masec:index:service-de-securité"/>
+    <file name="conatctez-nous.css" crc="390463703" ref="conatctez-nous"/>
+    <file name="nomq_conatctez-nous.css" crc="4014943623" ref="conatctez-nous"/>
+    <file name="a-propos-de-masec.css" crc="51367914" ref="a-propos-de-masec"/>
+    <file name="nomq_a-propos-de-masec.css" crc="3826714993" ref="a-propos-de-masec"/>
+    <file name="index.css" crc="521289939" ref="index"/>
+    <file name="nomq_index.css" crc="354510655" ref="index"/>
+    <file name="service-de-securit_.css" crc="488346072" ref="service-de-securité"/>
+    <file name="nomq_service-de-securit_.css" crc="67777101" ref="service-de-securité"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u28092.php" crc="81878577" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>service-de-securité:phone>a-propos-de-masec:phone>conatctez-nous:tablet>index:tablet>service-de-securité:tablet>a-propos-de-masec:tablet>conatctez-nous:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form-u6098.php" crc="3826821796" ref="index"/>
+    <file name="form-u1737.php" crc="54845974" ref="index"/>
+    <file name="form-u9495.php" crc="4154908770" ref="index"/>
+    <file name="form-u10007.php" crc="3766678875" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="form-u2588.php" crc="378294579" ref="conatctez-nous"/>
+  </folder>
+  <folder name="images">
+    <file name="phys.jpg" crc="3954903489" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cannn.jpg" crc="383550409" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2023-10-25 at 234650.jpg" crc="4222673339" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2023-10-25 at 231633 (1).jpg" crc="4112644469" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="livre.jpg" crc="257526160" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2023-10-26 at 012422-u28079-fr.jpg" crc="4102875442" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="appelll-u28087-fr.jpg" crc="469511169" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="emai-u28077-fr.jpg" crc="3880810876" ref="phone>index:index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="machosit-u25009-fr.png" crc="242356114" ref="index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="u25010-4.png" crc="3766600744" ref="index"/>
+    <file name="whatsapp image 2023-10-25 at 231633.jpg" crc="3989387925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="whatsapp image 2023-10-25 at 232154.jpg" crc="3917497853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2023-10-25 at 232153.jpg" crc="401569831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cannn-u647-fr.jpg" crc="437849255" ref="index"/>
+    <file name="capture d’écran (18)-modifiée.jpg" crc="432093086" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camera1.jpg" crc="3795409159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camera2.jpg" crc="139934494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camera3.jpg" crc="280992049" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2023-10-26 at 012422-u1487-fr.jpg" crc="134657755" ref="index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="appelll-u1506-fr.jpg" crc="4281466202" ref="index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="emai-u1517-fr.jpg" crc="308356817" ref="index:service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="u24979-4.png" crc="237327958" ref="index"/>
+    <file name="cannn-u647-fr2.jpg" crc="322542888" ref="index"/>
+    <file name="appelll-u1506-fr2.jpg" crc="364410649" ref="index"/>
+    <file name="emai-u1517-fr2.jpg" crc="4078635473" ref="index:service-de-securité"/>
+    <file name="u24144-4.png" crc="3830744544" ref="index"/>
+    <file name="phys-u7185-fr.jpg" crc="3758929369" ref="index"/>
+    <file name="cannn-u7201-fr.jpg" crc="221549648" ref="index"/>
+    <file name="u20436-4.png" crc="4289854551" ref="service-de-securité"/>
+    <file name="cadena service de securite.jpg" crc="3917025522" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="capture d’écran (19).jpg" crc="4030368289" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="objet de valeur securise.jpg" crc="502498743" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="camera1-u1954-fr.jpg" crc="164346764" ref="service-de-securité"/>
+    <file name="cofre.jpg" crc="3943090218" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="rad.jpg" crc="514895010" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="gestion treso.jpg" crc="176579250" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="u20436-42.png" crc="237327958" ref="service-de-securité"/>
+    <file name="camera12.jpg" crc="170127312" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="appelll-u1997-fr.jpg" crc="382619323" ref="service-de-securité"/>
+    <file name="u20436-43.png" crc="3830744544" ref="service-de-securité"/>
+    <file name="camera1-u1954-fr2.jpg" crc="4236868928" ref="service-de-securité"/>
+    <file name="u20436-44.png" crc="3813736347" ref="service-de-securité"/>
+    <file name="emai-u1998-fr.jpg" crc="4265119564" ref="service-de-securité:conatctez-nous:a-propos-de-masec"/>
+    <file name="u20436-45.png" crc="4020966323" ref="service-de-securité"/>
+    <file name="whatsapp image 2023-10-26 at 012422.jpg" crc="3989247100" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="appelll.jpg" crc="3778658953" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="emai.jpg" crc="4864837" ref="service-de-securité">
+      <caption webpage="service-de-securité" alt=""/>
+      <caption webpage="service-de-securité" alt=""/>
+    </file>
+    <file name="u20436-46.png" crc="3825729350" ref="service-de-securité"/>
+    <file name="capture d’écran (19)-u1886-fr.jpg" crc="35292876" ref="service-de-securité"/>
+    <file name="appelll-u1997-fr2.jpg" crc="4168876299" ref="service-de-securité"/>
+    <file name="u27297-4.png" crc="3766600744" ref="conatctez-nous"/>
+    <file name="u27297-42.png" crc="4144598498" ref="conatctez-nous"/>
+    <file name="u27297-43.png" crc="3972753960" ref="conatctez-nous"/>
+    <file name="u27297-44.png" crc="436401085" ref="conatctez-nous"/>
+    <file name="u26632-4.png" crc="3766600744" ref="a-propos-de-masec"/>
+    <file name="oeil.png" crc="480591810" ref="a-propos-de-masec">
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+      <caption webpage="a-propos-de-masec" alt=""/>
+    </file>
+    <file name="drapo.png" crc="4059079134" ref="a-propos-de-masec">
+      <caption webpage="a-propos-de-masec" alt=""/>
+    </file>
+    <file name="valeur.png" crc="4027590116" ref="a-propos-de-masec">
+      <caption webpage="a-propos-de-masec" alt=""/>
+    </file>
+    <file name="u26632-42.png" crc="4144598498" ref="a-propos-de-masec"/>
+    <file name="drapo-u2511-fr.png" crc="4205950664" ref="a-propos-de-masec"/>
+    <file name="valeur-u2521-fr.png" crc="4240023433" ref="a-propos-de-masec"/>
+    <file name="u26632-43.png" crc="3972753960" ref="a-propos-de-masec"/>
+    <file name="u26632-44.png" crc="436401085" ref="a-propos-de-masec"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+      <file name="a-propos-de-masec.css" crc="4021538510" ref="tablet>a-propos-de-masec"/>
+      <file name="conatctez-nous.css" crc="4021538510" ref="tablet>conatctez-nous"/>
+      <file name="nomq_conatctez-nous.css" crc="3824530138" ref="tablet>conatctez-nous"/>
+      <file name="service-de-securit_.css" crc="4021538510" ref="tablet>service-de-securité"/>
+    </folder>
+    <file name="index.html" crc="9168361" seo="true" mt="1701260933188" redirect="false"/>
+    <file name="service-de-securité.html" crc="27213798" seo="true" mt="1701260933189" redirect="false"/>
+    <file name="a-propos-de-masec.html" crc="55077986" seo="true" mt="1701260933189" redirect="false"/>
+    <file name="conatctez-nous.html" crc="4047871039" seo="true" mt="1701260933190" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="service-de-securit_.css" crc="62426684" ref="phone>service-de-securité"/>
+      <file name="a-propos-de-masec.css" crc="62426684" ref="phone>a-propos-de-masec"/>
+      <file name="index.css" crc="4067721019" ref="phone>index"/>
+      <file name="conatctez-nous.css" crc="62426684" ref="phone>conatctez-nous"/>
+      <file name="nomq_conatctez-nous.css" crc="3824530138" ref="phone>conatctez-nous"/>
+    </folder>
+    <file name="index.html" crc="146395479" seo="true" mt="1701261546970" redirect="true"/>
+    <file name="service-de-securité.html" crc="3822796140" seo="true" mt="1701260932816" redirect="false"/>
+    <file name="a-propos-de-masec.html" crc="4048323927" seo="true" mt="1701260932872" redirect="false"/>
+    <file name="conatctez-nous.html" crc="326959865" seo="true" mt="1701260932913" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3842828987" seo="true" mt="1701261397090" redirect="true"/>
+  <file name="service-de-securité.html" crc="32521019" seo="true" mt="1701261397090" redirect="true"/>
+  <file name="conatctez-nous.html" crc="6688182" seo="true" mt="1701261397090" redirect="true"/>
+  <file name="a-propos-de-masec.html" crc="19476050" seo="true" mt="1701261397090" redirect="true"/>
+</manifest>
